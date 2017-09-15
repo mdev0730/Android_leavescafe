@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "774307085086",
+    "firebase_url": "https://leaves-cafe.firebaseio.com",
+    "project_id": "leaves-cafe",
+    "storage_bucket": "leaves-cafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774307085086:android:b08c1f3e1cde9524",
+        "android_client_info": {
+          "package_name": "com.jasonmccoy.a7leavescardx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774307085086-mcbslt0dshqasoiprlaiotfqnn4jrd7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jasonmccoy.a7leavescardx",
+            "certificate_hash": "C7D84AF6CBFE0942A36D7A9DE77D1B159D3085DE"
+          }
+        },
+        {
+          "client_id": "774307085086-np4lkgouah1rqkjoh7sm1sf8ilmtsvgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIsoXFNP03H60EZIgTjMF56CCjdDDPkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774307085086-hcd627qg0emmh7bhbcn58e3a23bvl81a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.JasonMcCoy.7LeavesCard",
+                "app_store_id": "1187702945"
+              }
+            },
+            {
+              "client_id": "774307085086-np4lkgouah1rqkjoh7sm1sf8ilmtsvgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
